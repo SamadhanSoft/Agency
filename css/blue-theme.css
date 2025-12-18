@@ -4340,7 +4340,6 @@ span.sm-info {
   position: absolute;
   content: '';
   z-index: -1;
-  display: none;
 }
 
 #features-12.py-100.shape--bg:after { width: 48%; height: 64%; top: 18%; left: 52%; }
@@ -4614,7 +4613,7 @@ span.sm-info {
 
 .fbox-12,
 .fbox-13 {
-  padding: 32px 15px;
+  padding: 32px 35px;
 } 
 
 .fbox-12 h5,
