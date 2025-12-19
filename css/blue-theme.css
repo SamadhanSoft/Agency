@@ -402,7 +402,7 @@ section,
 
 .shape--whitesmoke:after { background-color: rgba(123, 104, 238, .05); }
 
-.shape--white-500:after { background-color: #f2f4f8; }
+/* .shape--white-500:after { background-color: #f2f4f8; } */
 .shape--white-400:after { background-color: #f4f4f9; }
 .shape--white-300:after { background-color: #f7f8f9; }
 .shape--white-200:after { background-color: #fbfbfd; }
