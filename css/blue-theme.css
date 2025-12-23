@@ -3056,7 +3056,10 @@ span.sm-info {
 /*------------------------------------------*/
 /*  NAVBAR WHITE SCROLL
 /*------------------------------------------*/
-
+.unordered-list{
+  list-style:circle;
+  margin-top:20px;
+}
 .tra-menu.white-scroll .wsmainfull.scroll,
 .white-menu.white-scroll .wsmainfull.scroll {
   padding: 0;
