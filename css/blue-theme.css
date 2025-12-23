@@ -399,7 +399,13 @@ section,
   top: 37%;
   left: -50%;
 }
-
+/* .banner-1-txt li:last-child a{
+  padding-right: 4px;
+} */
+.banner-1-txt li:first-child:after{
+  content: "|";
+  padding-right: 5px;
+}
 .shape--whitesmoke:after { background-color: rgba(123, 104, 238, .05); }
 
 /* .shape--white-500:after { background-color: #f2f4f8; } */
@@ -3060,6 +3066,7 @@ span.sm-info {
   -webkit-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
   -moz-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
   box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
+  color:#fff;
 }
 
 .tra-menu.navbar-dark.white-scroll .scroll .wsmenu > .wsmenu-list > li > a.h-link, 
